@@ -1,0 +1,14 @@
+c:\users\y\documents\visual studio 2015\Projects\GoogleFloatingActionButton\GoogleFloatingActionButton\bin\Debug\GoogleFloatingActionButton.exe.config
+c:\users\y\documents\visual studio 2015\Projects\GoogleFloatingActionButton\GoogleFloatingActionButton\bin\Debug\GoogleFloatingActionButton.exe
+c:\users\y\documents\visual studio 2015\Projects\GoogleFloatingActionButton\GoogleFloatingActionButton\bin\Debug\GoogleFloatingActionButton.pdb
+c:\users\y\documents\visual studio 2015\Projects\GoogleFloatingActionButton\GoogleFloatingActionButton\obj\Debug\GoogleFloatingActionButton.csprojResolveAssemblyReference.cache
+c:\users\y\documents\visual studio 2015\Projects\GoogleFloatingActionButton\GoogleFloatingActionButton\obj\Debug\MainWindow.g.cs
+c:\users\y\documents\visual studio 2015\Projects\GoogleFloatingActionButton\GoogleFloatingActionButton\obj\Debug\App.g.cs
+c:\users\y\documents\visual studio 2015\Projects\GoogleFloatingActionButton\GoogleFloatingActionButton\obj\Debug\GoogleFloatingActionButton_MarkupCompile.cache
+c:\users\y\documents\visual studio 2015\Projects\GoogleFloatingActionButton\GoogleFloatingActionButton\obj\Debug\GoogleFloatingActionButton_MarkupCompile.lref
+c:\users\y\documents\visual studio 2015\Projects\GoogleFloatingActionButton\GoogleFloatingActionButton\obj\Debug\MainWindow.baml
+c:\users\y\documents\visual studio 2015\Projects\GoogleFloatingActionButton\GoogleFloatingActionButton\obj\Debug\GoogleFloatingActionButton.g.resources
+c:\users\y\documents\visual studio 2015\Projects\GoogleFloatingActionButton\GoogleFloatingActionButton\obj\Debug\GoogleFloatingActionButton.Properties.Resources.resources
+c:\users\y\documents\visual studio 2015\Projects\GoogleFloatingActionButton\GoogleFloatingActionButton\obj\Debug\GoogleFloatingActionButton.csproj.GenerateResource.Cache
+c:\users\y\documents\visual studio 2015\Projects\GoogleFloatingActionButton\GoogleFloatingActionButton\obj\Debug\GoogleFloatingActionButton.exe
+c:\users\y\documents\visual studio 2015\Projects\GoogleFloatingActionButton\GoogleFloatingActionButton\obj\Debug\GoogleFloatingActionButton.pdb
